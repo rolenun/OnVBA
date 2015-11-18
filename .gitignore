@@ -1,0 +1,6 @@
+﻿bin
+bin/Debug
+obj
+docs/build
+.vs
+.git
