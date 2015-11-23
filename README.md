@@ -25,12 +25,12 @@ For a more indepth look at setting up sphinx: http://ardalis.com/contributing-to
 >4. Open the command prompt
 >5. Run: pip install sphinx
 >6. Run: pip install -U sphinx_rtd_theme
->7. Clone VBAInspired at: https://github.com/rolenun/VBAInspired
+>7. Clone OnVBA at: https://github.com/rolenun/OnVBA
 >8. CD to the clone/docs directory
 >9. Run: make html
 >10. If you would prefer to use Visual Studio to build the docs, goto Tools->External Tools
 >    a. Click Add
->    b. Title: VBAInspired
+>    b. Title: OnVBA
 >    c. Command: $(SolutionDir)\docs\make.bat
 >    d. Arguments: html
 >    e. Initial Directory: $(SolutionDir)\docs\
